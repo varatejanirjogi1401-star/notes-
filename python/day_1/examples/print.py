@@ -1,0 +1,2 @@
+print("Hello World!")
+# here print is a keyword which is used to display the information present in the brackets on the console. The information can be a string, a number, or any other data type. In this case, we are printing the string "Hello World!" to the console. And this can be seen by the user when they run the code. The output will be: Hello World!   
